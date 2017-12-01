@@ -1,0 +1,17 @@
+01 = Precipitation
+                         02 = Average Temperature 
+                         05 = PDSI
+                         06 = PHDI
+                         07 = ZNDX
+                         08 = PMDI
+                         25 = Heating Degree Days
+                         26 = Cooling Degree Days
+                         27 = Maximum Temperature
+                         28 = Minimum Temperature
+                         71 = 1-month Standardized Precipitation Index
+                         72 = 2-month Standardized Precipitation Index
+                         73 = 3-month Standardized Precipitation Index
+                         74 = 6-month Standardized Precipitation Index
+                         75 = 9-month Standardized Precipitation Index
+                         76 = 12-month Standardized Precipitation Index
+                         77 = 24-month Standardized Precipitation Index
